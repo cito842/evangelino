@@ -1,1 +1,3 @@
-di auto-terapia strategica breve con AI, basata su modello sistemico.
+# Syntonia Web App
+
+App di psicoterapia sistemico-strategica con AI.
